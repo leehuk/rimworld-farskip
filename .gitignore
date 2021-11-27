@@ -1,0 +1,5 @@
+.*.swp
+*/.*.swp
+Source/FarskipImmobile/.vs
+Source/FarskipImmobile/bin
+Source/FarskipImmobile/obj
